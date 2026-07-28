@@ -8,3 +8,5 @@ Déclenché sur push et pull request vers `main`, plus lancement manuel (`workfl
 Runner `ubuntu-24.04`, timeout 10 min.
 
 Le pipeline est passé au vert dès le premier run, je n'ai pas eu d'erreur à corriger.
+
+Exercice déjà fait auparavant, donc pas de difficulté.
